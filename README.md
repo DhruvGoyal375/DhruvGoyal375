@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Goyal</h1>
-<h3 align="center">Results-oriented Computer Science student, passionate about web development, data analytics, and community service</h3>
+<h3 align="center">Results-oriented Computer Science student, passionate about web development and data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvgoyal375&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvgoyal375" /> </p>
 
